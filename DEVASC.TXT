@@ -1,0 +1,3 @@
+premier pour conflit dans test fichier
+modification du contenu
+modification du contenu dans la branche feature
